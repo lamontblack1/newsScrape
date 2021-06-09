@@ -1,0 +1,18 @@
+.card-header,
+.card-body {
+  padding: 10px;
+}
+
+.card-title {
+  padding: 10px;
+  margin-bottom: 0px;
+}
+h2,
+p.card-text {
+  margin-bottom: 0px;
+}
+
+.see-note,
+.add-note {
+  width: 100%;
+}
